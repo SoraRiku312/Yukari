@@ -1,1 +1,1 @@
-run: java -jar target/Yukari-1.0-SNAPSHOT.jar
+worker: java -jar target/discord-1.0-SNAPSHOT.jar
