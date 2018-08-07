@@ -1,1 +1,1 @@
-web: java -jar target/yukari-bot-discord.jar
+run: java -jar target/Yukari-1.0-SNAPSHOT.jar
